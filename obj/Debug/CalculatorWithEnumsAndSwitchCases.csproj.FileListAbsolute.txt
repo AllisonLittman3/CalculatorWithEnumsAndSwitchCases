@@ -1,0 +1,6 @@
+c:\users\allis\documents\visual studio 2017\Projects\CalculatorWithEnumsAndSwitchCases\CalculatorWithEnumsAndSwitchCases\bin\Debug\CalculatorWithEnumsAndSwitchCases.exe.config
+c:\users\allis\documents\visual studio 2017\Projects\CalculatorWithEnumsAndSwitchCases\CalculatorWithEnumsAndSwitchCases\bin\Debug\CalculatorWithEnumsAndSwitchCases.exe
+c:\users\allis\documents\visual studio 2017\Projects\CalculatorWithEnumsAndSwitchCases\CalculatorWithEnumsAndSwitchCases\bin\Debug\CalculatorWithEnumsAndSwitchCases.pdb
+c:\users\allis\documents\visual studio 2017\Projects\CalculatorWithEnumsAndSwitchCases\CalculatorWithEnumsAndSwitchCases\obj\Debug\CalculatorWithEnumsAndSwitchCases.csproj.CoreCompileInputs.cache
+c:\users\allis\documents\visual studio 2017\Projects\CalculatorWithEnumsAndSwitchCases\CalculatorWithEnumsAndSwitchCases\obj\Debug\CalculatorWithEnumsAndSwitchCases.exe
+c:\users\allis\documents\visual studio 2017\Projects\CalculatorWithEnumsAndSwitchCases\CalculatorWithEnumsAndSwitchCases\obj\Debug\CalculatorWithEnumsAndSwitchCases.pdb
